@@ -1,6 +1,6 @@
 # Projeto de Predição de Preços de Imóveis em Madrid
 
-Este projeto tem como objetivo desenvolver um modelo de machine learning para prever os preços de imóveis em Madrid com base em características do dataset.
+Este projeto tem como objetivo desenvolver um modelo de machine learning para prever os preços de imóveis em Madrid com base nas características coletadas no dataset.
 
 ## Sobre o Projeto
 
