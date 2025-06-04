@@ -5,7 +5,9 @@ Este projeto tem como objetivo desenvolver um modelo de machine learning para pr
 ## Sobre o Projeto
 
 Objetivo: Criar um modelo preditivo para estimar o valor de imóveis em Madrid.
+
 Modelos Utilizados: Regressão Linear e Random Forest.
+
 Resultados: O Random Forest obteve um melhor desempenho geral como modelo para esse caso.
 
 ## Como Usar
@@ -37,4 +39,5 @@ Random Forest	     135.460	209.366	  0.667
 ## Próximos Passos
 
 Feature Engineering: Criar novas variáveis para utilização.
+
 Testar outros modelos: Gradient Boosting (XGBoost, LightGBM) por exemplo.
