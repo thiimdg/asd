@@ -29,7 +29,9 @@ Abra o Notbook diretamente no Google Colab
 
 ## Principais Resultados
 Modelo	           MAE (€)	RMSE (€)	R² Score
+
 Regressão Linear	 147.163	220.770	  0.576
+
 Random Forest	     135.460	209.366	  0.667
 
 ## Próximos Passos
