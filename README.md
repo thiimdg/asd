@@ -32,11 +32,11 @@ Faça o upload do dataset quando solicitado.
 ```
 
 ## Principais Resultados
-Modelo	           MAE (€)	RMSE (€)	R² Score
+Modelo -	           MAE (€) -	RMSE (€) -	R² Score
 
-Regressão Linear	 147.163	220.770	  0.576
+Regressão Linear -	 147.163 -	220.770 -	  0.576
 
-Random Forest	     135.460	209.366	  0.667
+Random Forest	 -    135.460	- 209.366 -	  0.667
 
 ## Próximos Passos
 
