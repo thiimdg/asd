@@ -18,7 +18,9 @@ Resultados: O Random Forest obteve um melhor desempenho geral como modelo para e
 pip install -r requirements.txt
 ```
 
-Abra o Notbook diretamente no Google Colab
+Clique no botão "Open in Colab"  para abrir o notbook diretamente no Google Colab.
+
+Faça o upload do dataset quando solicitado.
 
 ## Estrutura do Projeto
 
